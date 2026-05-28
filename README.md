@@ -1,6 +1,6 @@
 # Lead Generation and Outreach Automation
 
-A collection of Python scripts and Google Apps Script automations built to power end-to-end outbound lead generation for a US digital marketing agency (Green Marketing, lawn and landscape niche).
+A collection of Python scripts and Google Apps Script automations built to power end-to-end outbound lead generation for a US-based marketing agency in the home services niche.
 
 Built iteratively over several months with Claude Code and Codex CLI as development tools.
 
